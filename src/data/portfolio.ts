@@ -20,42 +20,42 @@ export const portfolioData = {
   skills: [
     {
       category: "Languages", items: [
-        { name: "C", icon: "/projects/svg/icons8-c-programming.svg" },
-        { name: "Java", icon: "/projects/svg/icons8-java.svg" },
-        { name: "Python", icon: "/projects/svg/python-svgrepo-com.svg" },
-        { name: "JavaScript", icon: "/projects/svg/javascript-logo-svgrepo-com.svg" },
-        { name: "TypeScript", icon: "/projects/svg/typescript-icon-svgrepo-com.svg" },
-        { name: "HTML5", icon: "/projects/svg/html-5-svgrepo-com.svg" },
-        { name: "CSS3", icon: "/projects/svg/css-3-svgrepo-com.svg" }
+        { name: "C", icon: "/projects/svg/c.svg" },
+        { name: "Java", icon: "/projects/svg/java.svg" },
+        { name: "Python", icon: "/projects/svg/python.svg" },
+        { name: "JavaScript", icon: "/projects/svg/javascript.svg" },
+        { name: "TypeScript", icon: "/projects/svg/typescript.svg" },
+        { name: "HTML5", icon: "/projects/svg/html5.svg" },
+        { name: "CSS3", icon: "/projects/svg/css3.svg" }
       ]
     },
     {
       category: "Frontend", items: [
-        { name: "React", icon: "/projects/svg/react-svgrepo-com.svg" },
-        { name: "Next.js", icon: "/projects/svg/nextjs-fill-svgrepo-com.svg" },
-        { name: "Tailwind CSS", icon: "/projects/svg/tailwind-svgrepo-com.svg" },
-        { name: "Vite", icon: "/projects/svg/Vite.js.svg" },
-        { name: "Framer Motion", icon: "/projects/svg/framer-svgrepo-com.svg" }
+        { name: "React", icon: "/projects/svg/react.svg" },
+        { name: "Next.js", icon: "/projects/svg/nextjs.svg" },
+        { name: "Tailwind CSS", icon: "/projects/svg/tailwind.svg" },
+        { name: "Vite", icon: "/projects/svg/vite.svg" },
+        { name: "Framer Motion", icon: "/projects/svg/framer.svg" }
       ]
     },
     {
       category: "Backend", items: [
-        { name: "NestJS", icon: "/projects/svg/nestjs-svgrepo-com.svg" },
+        { name: "NestJS", icon: "/projects/svg/nestjs.svg" },
         { name: "Node.js", icon: "" },
-        { name: "MongoDB", icon: "/projects/svg/mongodb-logo-svgrepo-com.svg" },
-        { name: "PostgreSQL", icon: "/projects/svg/postgresql-logo-svgrepo-com.svg" },
-        { name: "Prisma", icon: "/projects/svg/prisma-svgrepo-com.svg" }
+        { name: "MongoDB", icon: "/projects/svg/mongodb.svg" },
+        { name: "PostgreSQL", icon: "/projects/svg/postgresql.svg" },
+        { name: "Prisma", icon: "/projects/svg/prisma.svg" }
       ]
     },
     {
       category: "Tools", items: [
-        { name: "Git", icon: "/projects/svg/git-svgrepo-com.svg" },
-        { name: "Postman", icon: "/projects/svg/postman-icon-svgrepo-com.svg" },
-        { name: "Vercel", icon: "/projects/svg/vercel-icon-svgrepo-com.svg" },
-        { name: "Render", icon: "/projects/svg/Render Symbol SVG.svg" },
-        { name: "Docker", icon: "/projects/svg/docker-svgrepo-com.svg" },
-        { name: "VS Code", icon: "/projects/svg/vs-code-svgrepo-com.svg" },
-        { name: "Figma", icon: "/projects/svg/figma-svgrepo-com.svg" }
+        { name: "Git", icon: "/projects/svg/git.svg" },
+        { name: "Postman", icon: "/projects/svg/postman.svg" },
+        { name: "Vercel", icon: "/projects/svg/vercel.svg" },
+        { name: "Render", icon: "/projects/svg/render.svg" },
+        { name: "Docker", icon: "/projects/svg/docker.svg" },
+        { name: "VS Code", icon: "/projects/svg/vscode.svg" },
+        { name: "Figma", icon: "/projects/svg/figma.svg" }
       ]
     }
   ],
